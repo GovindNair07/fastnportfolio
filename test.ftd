@@ -1,1 +1,4 @@
--- ftd.text: hello world
+--ftd.text.hello world
+-- import :package/header as navbar
+-- navbar.header:
+logo:
